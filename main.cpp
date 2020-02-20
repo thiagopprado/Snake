@@ -1,3 +1,5 @@
+// Thiago Pereira do Prado
+// thiagopereiraprado@gmail.com
 #include <iostream>
 #include <cstdlib>
 #include "snake.h"
